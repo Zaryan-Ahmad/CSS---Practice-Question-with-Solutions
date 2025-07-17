@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbar{
+    background-color: black;
+    color: white;
+    height: 60px;
+    border-radius: 30px;
+}
+#logo{
+    color: orange;
+    margin-left:10px;
+    font-size: 25px;
+}
+a{
+    margin-left: 200px;
+}
+#search-box{
+    margin-left: 100px;
+}
+#search-btn{
+    color: black;
+    background-color: orange;
+}
